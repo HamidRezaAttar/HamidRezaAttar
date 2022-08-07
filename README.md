@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm HamidReza 👋</h1>
 
-HamidReza is studying Computer Science. He is working as a Data Scientist. He is interested in Machine Learning and Deep Learning.
+#### HamidReza is studying Computer Science. He is working as a Data Scientist. He is interested in Machine Learning and Deep Learning.
 
 ## 🔎 About Me 
 
