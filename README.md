@@ -31,8 +31,9 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HamidRezaAttar)](https://github.com/HamidRezaAttar)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hamid-reza-fathollahzadeh-attar-6484a11ba/)](https://www.linkedin.com/in/hamid-reza-fathollahzadeh-attar-6484a11ba/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hamidattar5@gmail.com)](mailto:hamidattar5@gmail.com)
-🤗 [Hugging Face](https://huggingface.co/HamidRezaAttar) 
-📖 [Blog](https://hamidrezaattar.github.io/blog/)
+[![Hugging Face - 🤗](https://img.shields.io/badge/Hugging_Face-🤗-2ea44f?style=for-the-badge)](https://huggingface.co/HamidRezaAttar) 
+[![Blog - 📖](https://img.shields.io/badge/Blog-📖-pink?style=for-the-badge)](https://hamidrezaattar.github.io/blog/)
+[![Website - 🌐](https://img.shields.io/badge/Website-🌐-purple?style=for-the-badge)](https://hamidrezaattar.github.io/)
 
 ## 📈 GitHub Stats
 
