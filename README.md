@@ -35,6 +35,5 @@
 [![Blog - 📖](https://img.shields.io/badge/Blog-📖-pink?style=for-the-badge)](https://hamidrezaattar.github.io/blog/)
 [![Website - 🌐](https://img.shields.io/badge/Website-🌐-purple?style=for-the-badge)](https://hamidrezaattar.github.io/)
 
-## 📈 GitHub Stats
-
-<img alt="Francesco Marchiori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HamidRezaAttar&show_icons=true&hide_border=true&bg_color=-25,25241c,9250c1&title_color=fff&text_color=fff" />
+<!-- ## 📈 GitHub Stats -->
+<!-- <img alt="HamidReza Attar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HamidRezaAttar&show_icons=true&hide_border=true&bg_color=-25,25241c,9250c1&title_color=fff&text_color=fff" /> -->
